@@ -1,1 +1,2 @@
 My config file
+Add my own configuration
